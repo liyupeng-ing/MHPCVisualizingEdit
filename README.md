@@ -1,4 +1,4 @@
-PCLObjectExtractor
+MHPCVisualizingEdit 
 ==================
 
-GUI used for extracting objects from existing point clouds (using PCL library) files. Useful for building object descriptors.
+Visualizing our MHPC while Edit it's parameters on an GUI .
